@@ -3,6 +3,13 @@ Windows 10 NIC network card Locally Adminstered Address Generator for local Netw
 
 How To use:
 
+important remind:
+
+This project is base on C# .net 5 SDK, if you need to modify the code with VS or VSC, please remember to download the .net 5 SDK
+
+URL: https://dotnet.microsoft.com/en-us/download/dotnet/5.0
+
+
 1. Go to Registry Editor and search "HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}" then will have lot of the file and it name with number.
 ![image](https://user-images.githubusercontent.com/93077307/202847967-1b006800-e303-4802-86c9-3b4bf0bed50e.png)
 
